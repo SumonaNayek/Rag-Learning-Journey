@@ -1,0 +1,15 @@
+Python is a high-level programming language
+
+
+Python is widely used for:
+- Data Science
+- Machine Learning
+- AI
+- RAG applications
+
+Variables:
+name = "Sumona"
+age = 25
+
+Lists:
+skills = ["Python", "SQL", "RAG"]
